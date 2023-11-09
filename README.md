@@ -1,6 +1,5 @@
 # satellite-orbit-simulator
 An interactive Python Satellite Orbit Simulator using Pygame for visualizing Earth satellite trajectories. 🛰️🌍
-Certainly! Here are the instructions you can include in a README file for people using your code:
 
 ---
 
